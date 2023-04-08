@@ -14,6 +14,11 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
 
+Also you can run script (with WATCHPACK_POLLING flag):
+### `npm run dev`
+If you use latest version of react-scripts (5.0.1) with Node.js v18.15.0
+Because it has problem with reload app after changes
+
 ### `npm test`
 
 Launches the test runner in the interactive watch mode.\
