@@ -46,6 +46,22 @@ button {
   padding: 0px 4px 4px;
 }
 
+.answer {
+  color: midnightblue;
+}
+
+.answer:last-child {
+  padding-bottom: 4px;
+}
+
 .error {
   color: tomato;
+}
+
+.info {
+  height: 1rem;
+}
+
+.spare {
+  margin-top: 2rem;
 }
